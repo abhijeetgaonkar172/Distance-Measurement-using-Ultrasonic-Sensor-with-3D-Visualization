@@ -72,9 +72,9 @@ This short program will display a white box on a black background:
     from vpython import *
     box()
     
-    Rotate the camera view: drag with the right mouse button (or Ctrl-drag left button).
-    Zoom: drag with left and right mouse buttons (or Alt/Option-drag or scroll wheel).
-    Pan: Shift-drag.
+Rotate the camera view: drag with the right mouse button (or Ctrl-drag left button).
+Zoom: drag with left and right mouse buttons (or Alt/Option-drag or scroll wheel).
+Pan: Shift-drag.
     
 In the VPython 7 environment, VPython programs run on a local server, using standard Python, and output is sent to a browser, where the GlowScript graphics library is used to display the 3D animation. In the GlowScript environment, VPython programs are compiled in the browser itself by the RapydScript Python-to-JavaScript compiler, and the program is run in the browser.
  

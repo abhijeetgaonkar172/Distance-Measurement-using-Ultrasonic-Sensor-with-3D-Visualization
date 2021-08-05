@@ -46,8 +46,11 @@ We want to read the sensor data i.e., distance of the object from the COM port d
 
 ### Pyserial Library
 This module covers the access for the serial port.
+
 https://pypi.org/project/pyserial/ 
+
 Some important functions used:
+
 #### readline() function: Reads serial information till EOL Character by deafault it is \n escape character.
 The data which comes from NodeMCU serially is a byte string we need to decode it to Unicode string
 For e.g:

@@ -85,7 +85,9 @@ Please refer the above figure, it clears all the mathematical formulations, calc
 
 ## Hardware Required
 1)NodeMCU ESP8266
+
 2)Ultrasonic Sensor(HC-SR04)
+
 3)Jumper Wires
 
 ## Hardware Connection
